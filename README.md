@@ -39,14 +39,12 @@
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinvg99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=edinvg99&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinvg99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"  width="410"/></p>
 <br><br><br><br><br>
 
 <hr>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=edwinvg99&theme=juicyfresh&no-bg=true" />
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
