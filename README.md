@@ -38,32 +38,9 @@
 
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="[https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs?username=edwinvg99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)" />
-  <br></br>
- 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwinvg99&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-
-
-</p>        
-<!--- stats (end) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
 
 <!--h1 without bottom border-->
