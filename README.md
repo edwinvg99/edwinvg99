@@ -78,6 +78,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,postgres,firebase,github,html,java,js,linux,mongodb,mysql,nodejs,py,react,tailwind,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,firebase,github,html,java,js,linux,mongodb,mysql,py,react,tailwind,vscode,&perline=14" />
   </a>
 </p>
