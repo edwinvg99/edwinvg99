@@ -37,7 +37,7 @@
 
 
 
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="15px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinvg99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"  width="200"/></p>
 <br><br><br><br><br>
