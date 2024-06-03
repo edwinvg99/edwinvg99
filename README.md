@@ -25,13 +25,16 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 Actualmente estoy enfocado en **Python, Django, Sql , MongoDB**
+<!-- Intro start -->
+- 🔭 Actualmente estoy enfocado en **Python, Django, SQL, MongoDB** para el desarrollo Backend.
 
-- 🌱 Tengo conocimientos de nivel intermedio en el desarrollo FrontEnd, con tecnologias como**JavaScript, React, Vite , Tailwind, Html, Css**
+- 🌱 Tengo conocimientos intermedios en el desarrollo Frontend, utilizando tecnologías como **JavaScript, React, Vite, Tailwind, HTML, CSS**.
 
-- 📫 No dudes en comunicarte conmigo **velasquezgiraldoedwin@gmail.com**
-<!--Intro end-->
+- 📚 Estudiante de Ingeniería de Software en 8vo semestre, con un historial inicial de concentración en el desarrollo Frontend y actualmente enfocado en el Backend.
+
+- 📫 No dudes en comunicarte conmigo **velasquezgiraldoedwin@gmail.com**.
+<!-- Intro end -->
+
 
 
 
@@ -78,6 +81,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,firebase,github,html,java,js,linux,mongodb,mysql,py,react,tailwind,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,firebase,github,html,java,js,linux,mongodb,mysql,py,react,tailwind,vscode, reactnative&perline=14" />
   </a>
 </p>
