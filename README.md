@@ -36,9 +36,9 @@
 <!-- Intro end -->
 
  <br><br><br>
-<div align-items="center" >
-   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad en github</b></i></p>
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinvg99&show_icons=true&locale=es&layout=compact&theme=dark"  width="360"/></p>
+<div align="center" >
+   <img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad en github</b></i></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinvg99&show_icons=true&locale=es&layout=compact&theme=dark"  width="360"/></p>
   <br><br><br>
 
 <hr>
